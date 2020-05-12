@@ -14,4 +14,4 @@ Features/Representations Used:
 (e) VGGFace  
 (f) ResNet features 
 
-For further information related to this project, see the pdf 
+For further information related to this project, see the pdf SMAI_M_2019_A2_Final.pdf 
